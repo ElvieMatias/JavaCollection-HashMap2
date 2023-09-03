@@ -37,3 +37,17 @@ public class Products {
 
     }
 }
+
+// OUTPUT
+/*
+Mouse: 1050.
+SSD: 5000.
+Keyboard: 1499.
+Monitors: 9000.
+HDD: 3500.
+Power Supply: 4500.
+The price of item of SSD: 5000.
+The price of item of Monitors: 9000.
+The price of item of HDD: 3500.
+The price of item of Power Supply: 4500.
+*/
